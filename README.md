@@ -16,7 +16,7 @@ struct Avyukt {
 - **[CNet](https://github.com/Cymiee/CNet)** — a neural network framework in pure C, no libraries.
   Tensors, hand-written autograd (gradient-checked), Python bindings, and a live
   drawing app — trains on MNIST to **97.7%** test accuracy.
-  → [Read the write-up](ADD_BLOG_LINK_HERE) on what building it taught me about what PyTorch hides.
+  → [Read the write-up](will_add_link_soon) on what building it taught me about what PyTorch hides.
 
 **🛠 Working in**
 
