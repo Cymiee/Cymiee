@@ -25,4 +25,4 @@ struct Avyukt {
 
 **📫 Reach me**
 
-[LinkedIn](https://www.linkedin.com/in/avyukt-chamria-094689311/) · avyuktchamria@gmail.com
+[LinkedIn](https://www.linkedin.com/in/avyukt-chamria-094689311/) · avyuktchamria@gmail.com · [Portfolio]([https://www.linkedin.com/in/avyukt-chamria-094689311/)](https://avyukt-chamria-dev.vercel.app/) 
