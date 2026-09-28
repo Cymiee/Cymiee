@@ -20,11 +20,11 @@ static const struct {
 - **[CNet](https://github.com/Cymiee/CNet)**: a deep learning framework in pure C, no libraries.
   Tensors, hand-written autograd with every backward pass gradient-checked, Adam, Python bindings,
   and a CUDA backend in progress. Trains on MNIST to **97.7%** test accuracy.
-  → [Read the case study](https://avyukt-chamria-dev.vercel.app/cnet) and draw a digit for the trained model to classify.
+  → [Read the case study](https://avyukt-chamria.vercel.app/cnet) and draw a digit for the trained model to classify.
 - **[Shelved](https://github.com/Cymiee/shelved)**: Letterboxd for video games. Ratings, reviews, friends and
   an activity feed, with Steam library import. React, TypeScript and Supabase. [Live ↗](https://shelved-one.vercel.app/)
 
-My [portfolio](https://avyukt-chamria-dev.vercel.app/) trains a neural network live in your browser while you read it.
+My [portfolio](https://avyukt-chamria.vercel.app/) trains a neural network live in your browser while you read it.
 
 **Working in**
 
@@ -32,4 +32,4 @@ My [portfolio](https://avyukt-chamria-dev.vercel.app/) trains a neural network l
 
 **Reach me**
 
-[Portfolio](https://avyukt-chamria-dev.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/avyukt-chamria-094689311/) · avyuktchamria@gmail.com
+[Portfolio](https://avyukt-chamria.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/avyukt-chamria-094689311/) · avyuktchamria@gmail.com
